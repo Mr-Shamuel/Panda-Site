@@ -1,0 +1,21 @@
+.s-card{
+    border: none;
+}
+.shoe-btn{
+    background:rgb(204, 44, 164);
+    color:white;
+    margin-bottom: 15px;
+    
+}
+
+.catas{
+    width:100px ;  
+}
+.catago{
+  
+    border-radius: 20px;
+}
+.caroo{
+    background: linear-gradient(90deg,pink,pink);
+    border-radius: 20px;
+}
